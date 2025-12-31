@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "diverge",
+  "base_artist": "mihimaru GT",
+  "createdAt": "2025-12-31T11:20:28.706429Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Diverge",
+      "artist": "Jack Stauber",
+      "has_synced": true,
+      "path": "select/01_The_Diverge_Jack_Stauber.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Though Our Paths May Diverge (Goblin Slayer Episode Seven inserted song)",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/02_Though_Our_Paths_May_Diverge_(Goblin_Slayer_Episode_Seven_inserted_song)_Mili.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Erase and Diverge",
+      "artist": "Kalmah",
+      "has_synced": true,
+      "path": "select/03_Erase_and_Diverge_Kalmah.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Diverge (feat. Tom Brümmer)",
+      "artist": "Defocus",
+      "has_synced": false,
+      "path": "select/04_Diverge_(feat._Tom_Brümmer)_Defocus.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Though Our Paths May Diverge",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/05_Though_Our_Paths_May_Diverge_Mili.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Though Our Paths May Diverge(TVアニメゴブリンスレイヤー7話 挿入歌)",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/06_Though_Our_Paths_May_Diverge(TVアニメゴブリンスレイヤー7話_挿入歌)_Mili.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "diverge",
+      "artist": "mihimaru GT",
+      "has_synced": false,
+      "path": "select/07_diverge_mihimaru_GT.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Diverge",
+      "artist": "Defocus, Tom Brümmer",
+      "has_synced": false,
+      "path": "select/08_Diverge_Defocus,_Tom_Brümmer.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "DIVERGE",
+      "artist": "Seremedy",
+      "has_synced": true,
+      "path": "select/09_DIVERGE_Seremedy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Erase And Diverge",
+      "artist": "Kalmah",
+      "has_synced": true,
+      "path": "select/10_Erase_And_Diverge_Kalmah.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Paths Diverge",
+      "artist": "Angelus Errare",
+      "has_synced": true,
+      "path": "select/11_Paths_Diverge_Angelus_Errare.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Diverge, Transmute, Alter.",
+      "artist": "Vulvodynia",
+      "has_synced": true,
+      "path": "select/12_Diverge,_Transmute,_Alter._Vulvodynia.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Diverge, Transmute, Alter. [instrumental]",
+      "artist": "Vulvodynia",
+      "has_synced": true,
+      "path": "select/13_Diverge,_Transmute,_Alter._[instrumental]_Vulvodynia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "diverge",
+      "artist": "mihimaru GT",
+      "has_synced": false,
+      "path": "select/pl_01_diverge_mihimaru_GT.txt"
+    }
+  ]
+}
